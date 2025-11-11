@@ -5,9 +5,7 @@
 Este projeto implementa um **algoritmo numérico** em **Scilab** para determinar os **zeros de uma função não linear** utilizando o **método de Newton–Raphson**.  
 A função escolhida é:
 
-\[
 f(x) = 10⁻⁶·ln(x + 1) + 4·10⁻⁶·x² − 10⁻⁵·x − 0.6 = 0
-\]
 
 O método de Newton–Raphson é uma técnica iterativa que utiliza a função e sua derivada para aproximar raízes com alta precisão, sendo amplamente aplicada em problemas de engenharia, física e computação científica.
 
